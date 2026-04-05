@@ -24,7 +24,7 @@
 ```json
 {
   "content": "用户刚刚说的内容",
-  "mode": "append_today"
+  "mode": "create"
 }
 ```
 
